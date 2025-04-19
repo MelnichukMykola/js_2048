@@ -1,4 +1,37 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+# 2048 Game
+
+A modern and responsive landing page for a fictional bike brand or bike-related service. The website is designed to showcase bikes, promotions, and contact options in an attractive and accessible layout.  
+This project is perfect for practicing front-end layout skills, styling, and responsive design techniques.
+
+---
+
+## 🔗 Live Preview
+
+[Click here to view the live site](https://futdevelop.github.io/js_2048)
+
+---
+
+## 🎨 Reference
+
+[Reference](https://play2048.co/)
+
+---
+
+## ⚙️ Technologies Used
+
+- HTML5  
+- CSS3 / SCSS  
+- JavaScript (optional or basic interactivity)  
+- GitHub Pages for deployment 
+
+---
+
+## 🚀 Getting Started
+
+### 📦 1. Clone the repository
+
+Склонуй репозиторій до себе на комп'ютер:
+
+```bash
+git clone https://github.com/futdevelop/js_2048.git
+cd js_2048
