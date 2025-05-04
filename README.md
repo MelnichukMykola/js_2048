@@ -1,6 +1,7 @@
 # 2048 Game
 
-A classic 2048 puzzle game implemented using modern JavaScript and OOP principles with ES6 classes.
+A modern and responsive landing page for a fictional bike brand or bike-related service. The website is designed to showcase bikes, promotions, and contact options in an attractive and accessible layout.  
+This project is perfect for practicing front-end layout skills, styling, and responsive design techniques.
 
 ---
 
@@ -18,10 +19,10 @@ A classic 2048 puzzle game implemented using modern JavaScript and OOP principle
 
 ## ⚙️ Technologies Used
 
-- HTML5  
-- CSS3 / SCSS  
-- JavaScript (optional or basic interactivity)  
-- GitHub Pages for deployment 
+- HTML5
+- CSS3 / SCSS
+- JavaScript (optional or basic interactivity)
+- GitHub Pages for deployment
 
 ---
 
@@ -29,8 +30,7 @@ A classic 2048 puzzle game implemented using modern JavaScript and OOP principle
 
 ### 📦 1. Clone the repository
 
-Склонуй репозиторій до себе на комп'ютер:
-
 ```bash
 git clone https://github.com/futdevelop/js_2048.git
 cd js_2048
+```
