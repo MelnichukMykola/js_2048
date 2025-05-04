@@ -7,7 +7,7 @@ This project is perfect for practicing front-end layout skills, styling, and res
 
 ## 🔗 Live Preview
 
-[Click here to view the live site](https://futdevelop.github.io/js_2048)
+[Click here to view the live site](https://melnichukmykola.github.io/js_2048)
 
 ---
 
@@ -31,6 +31,6 @@ This project is perfect for practicing front-end layout skills, styling, and res
 ### 📦 1. Clone the repository
 
 ```bash
-git clone https://github.com/futdevelop/js_2048.git
+git clone https://github.com/melnichukmykola/js_2048.git
 cd js_2048
 ```
